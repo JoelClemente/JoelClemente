@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola, soy Joel Clemente!
 
-🔭 Actualmente terminando el grado en Ciencias e Ingeniería de Datos
+🔭 Actualmente terminando el grado de Ciencia e Ingeniería de Datos
 
 💬 Pregúntame sobre Python, Java y Git 
 
