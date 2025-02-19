@@ -9,5 +9,9 @@
 ## 📈 Estadísticas de GitHub:
 ![Tu Usuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelclemente&show_icons=true&theme=radical)
 
-## 📊 Lenguajes más usados:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelclemente&layout=compact&theme=tokyonight)
+<p align="center">
+  📊 **Lenguajes más usados** 📊  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelclemente&layout=compact&theme=tokyonight" />
+</p>
+
