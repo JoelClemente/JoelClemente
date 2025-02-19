@@ -7,7 +7,7 @@
 📫 Cómo contactarme: [LinkedIn](https://es.linkedin.com/in/joel-clemente-l%C3%B3pez-cabrera-0907b132a?trk=people-guest_people_search-card)  
 
 ## 📈 Estadísticas de GitHub:
-![Tu Usuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Tu Usuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelclemente&show_icons=true&theme=radical)
 
 ## 📊 Lenguajes más usados:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelclemente&layout=compact&theme=tokyonight)
