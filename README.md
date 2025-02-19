@@ -7,4 +7,4 @@
 ![Tu Usuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 ## 📊 Lenguajes más usados:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelclemente&layout=compact&theme=tokyonight)
