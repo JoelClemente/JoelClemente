@@ -1,8 +1,4 @@
-# 👋 ¡Hola, soy Joel Clemente!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
+# 👋 ¡Hola, soy Joel Clemente! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 🔭 Actualmente terminando el grado en Ciencias e Ingeniería de Datos
 
